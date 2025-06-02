@@ -2,6 +2,17 @@
 
 This project is a dashboard built in **Tableau** that analyzes COVID-19 death statistics globally. It provides a comprehensive view of how the pandemic has impacted countries and continents through key visualizations and metrics.
 
+## 📂 What's Included in This Repository
+
+This project repository contains all the files used to build and support the **COVID-19 Global Death Analysis Dashboard**:
+
+- 🧾 **SQL Queries** – All SQL scripts used for data exploration, transformation, and analysis  
+- 📊 **Excel Files** – Datasets used in Tableau  
+- 📈 **Tableau Dashboard Link** – Final visualization showcasing key insights  
+- 📁 **README File** – Project overview, goals, insights, and author info  
+
+You can explore the code, data, and dashboard setup to understand the process behind the analysis and replicate or build upon it.
+
 ## 📌 Project Goal
 
 The goal of this project is to:
