@@ -24,14 +24,11 @@ The dataset is sourced from **Our World in Data**:
 
 This open dataset includes daily updates on COVID-19 cases, deaths, testing, and population data by country.
 
-## 📷 Dashboard Preview
+## 📷 Tableau Dashboard
 
-![Covid Project](https://public.tableau.com/views/CovidDeathsProject_17488914957740/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Covid Project](https://public.tableau.com/views/CovidDeathsProject_17488914957740/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 👩‍💻 Author
 
 **Sarah M Wehkamp**
-
-- 🌐 [Portfolio](https://lnw26.myportfolio.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/sarah-wehkamp)
-- 💻 [GitHub](https://github.com/sarahwehkamp)
+🌐 [Portfolio](https://lnw26.myportfolio.com) | 💼 [LinkedIn](https://www.linkedin.com/in/sarah-wehkamp) | 💻 [GitHub](https://github.com/sarahwehkamp)
