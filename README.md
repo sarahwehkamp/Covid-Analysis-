@@ -41,4 +41,4 @@ These insights help paint a picture of the varied impact of COVID-19 based on ge
 ## 👩‍💻 Author
 
 **Sarah M Wehkamp**
-🌐 [Portfolio](https://lnw26.myportfolio.com) | 💼 [LinkedIn](https://www.linkedin.com/in/sarah-wehkamp) | 💻 [GitHub](https://github.com/sarahwehkamp)
+- 🌐 [Portfolio](https://lnw26.myportfolio.com) | 💼 [LinkedIn](https://www.linkedin.com/in/sarah-wehkamp) | 💻 [GitHub](https://github.com/sarahwehkamp)
