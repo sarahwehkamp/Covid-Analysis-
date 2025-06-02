@@ -20,13 +20,23 @@ The goal of this project is to:
 ## 📁 Dataset
 
 The dataset is sourced from **Our World in Data**:  
-🔗 [https://ourworldindata.org/data?q=covid+19](https://ourworldindata.org/data?q=covid+19)
+🔗 [Our World in Data](https://ourworldindata.org/data?q=covid+19)
 
 This open dataset includes daily updates on COVID-19 cases, deaths, testing, and population data by country.
 
 ## 📷 Tableau Dashboard
 
 [Covid Project](https://public.tableau.com/views/CovidDeathsProject_17488914957740/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+Here are some key insights from the dashboard:
+
+- 🇺🇸 **United States** has one of the highest total death counts globally, with millions infected and a significant percentage of the population affected.
+- 🌍 **Europe** recorded the highest number of deaths per continent during peak pandemic phases.
+- 🇮🇳 **India** shows a relatively high infection count but lower deaths per capita due to its large population base.
+- 🌍 Several **African countries** had lower reported death numbers, which may reflect testing/reporting limitations rather than actual impact.
+- 📊 The **infection rate per country** shows stark contrasts—some nations experienced infection rates well above 15% of their population, while others remained below 1%.
+
+These insights help paint a picture of the varied impact of COVID-19 based on geography, population size, and infection rates.
 
 ## 👩‍💻 Author
 
